@@ -1,6 +1,6 @@
-package com.fastcampus;
+package com.fastcampus.springpractice;
 
-import com.fastcampus.Main;
+import com.fastcampus.springpractice.Main;
 import org.junit.jupiter.api.Test;
 
 class MainTest {
